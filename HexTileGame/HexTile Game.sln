@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C506DD89-EF34-DE1E-00C7-9E7104BFBC4B}") = "HexTile Game", "Assembly-CSharp.csproj", "{BAC82BDA-4038-FE8A-1C68-6C8B1E0E854E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC82BDA-4038-FE8A-1C68-6C8B1E0E854E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC82BDA-4038-FE8A-1C68-6C8B1E0E854E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC82BDA-4038-FE8A-1C68-6C8B1E0E854E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC82BDA-4038-FE8A-1C68-6C8B1E0E854E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
